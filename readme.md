@@ -1,3 +1,3 @@
-http://Svetlana.github.io/HTML-Css
+http://Svetlana.github.io/HTML-Css/Week01/
 
 
