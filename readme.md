@@ -1,2 +1,2 @@
-github.com/SvetlanaGlad/HTML-CSS.github.io
+https://github.com/SvetlanaGlad/Svetlana.github.io.git
 
