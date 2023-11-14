@@ -1,2 +1,2 @@
 homework
-https://Svetlana.github.io/HTML-Css/Week02
+HTML-Css/Week02
